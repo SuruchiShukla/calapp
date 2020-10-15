@@ -1,0 +1,18 @@
+.firstbtn{
+    display: flex;
+    height: 1.2em;
+    flex: 1;
+    font-weight: bold;
+    border: none;
+    padding: 25px;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    font-size: 1.4em;
+    margin: 5px;
+    cursor: pointer;
+    border-radius: 12em;
+    background-color: #fff;
+    color: #7AD7F0;    
+    box-shadow: 5px 5px 3px #888;  
+  }
